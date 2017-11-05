@@ -1,0 +1,20 @@
+.navbar.navbar-default {
+    border-radius: 0px !important;
+}
+
+#browsers {
+    margin-top: 50px !important;
+}
+
+.download-buttons {
+    margin-top: 20px !important;
+}
+
+.browser-section {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+img {
+    margin: auto;
+}
