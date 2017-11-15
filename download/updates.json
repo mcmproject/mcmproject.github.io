@@ -1,0 +1,12 @@
+{
+    "addons": {
+        "mcmproject@mcmproject.github.io": {
+            "updates": [
+                {
+                    "version": "1.1.0",
+                    "update_link": "https://mcmproject.github.io/download/firefox/mcmf.xpi"
+                }
+            ]
+        }
+    }
+}
