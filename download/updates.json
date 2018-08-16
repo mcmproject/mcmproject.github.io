@@ -13,6 +13,10 @@
                 {
                     "version": "1.3.0",
                     "update_link": "https://mcmproject.github.io/download/firefox/mcmf.xpi"
+                },
+                {
+                    "version": "1.4.0",
+                    "update_link": "https://mcmproject.github.io/download/firefox/mcmf.xpi"
                 }
             ]
         }
