@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Test article 1",
+        "summary": "This is some summary",
+        "body": "This is a full body",
+        "published_at": "25-01-2021 00:01:00"
+    },
+    {
+        "title": "Test article 2",
+        "summary": "This is some summary",
+        "body": "This is a full body",
+        "published_at": "25-01-2021 00:02:00"
+    }
+]
